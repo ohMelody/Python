@@ -1,0 +1,10 @@
+python变量没有默认值
+cmath：处理复数
+原始字符串：r 不会对反斜杠做特殊处理，而是让字符串包含的每个字符都保持原样
+eg：print(r'C:\Program Files\endiozhang\test.txt')
+注：原始字符串不能以反斜杠结尾，如果非要用：反斜杠作为一个单独字符串print(r'C:\Program Files\endiozhang\test’ ‘\\’)
+Python编码：Unicode、bytes、bytearray
+
+第二章：列表和元组
+列表：可以修改
+元组：不可修改
